@@ -1,3 +1,5 @@
+This is the alternative of ExoPlayer-r2.7.3, including statistic of video streaming and the improvement of CustomLoadControl, specify in demo.
+
 # ExoPlayer #
 
 ExoPlayer is an application level media player for Android. It provides an
