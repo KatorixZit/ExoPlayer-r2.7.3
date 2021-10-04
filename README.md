@@ -1,14 +1,14 @@
 This is the alternative of ExoPlayer-r2.7.3, including statistic of video streaming and the improvement of CustomLoadControl, specify in demo.
 
 #1. Test Configuration
-Software:
+- Software:
 ```
     Android Studio 2020.3.1
     Exoplayer r2.7.3 (with modification in CustomLoadControl)
     Nexus 5X API 26
     MPAndroidChart v3.0.2
 ```
-Hardware:
+- Hardware:
 ```
     Chipset: i5-9400f
     Ram: 16GB
@@ -16,15 +16,19 @@ Hardware:
 ```
 
 ##2. Installation
-Open terminal (MacOS/Linx) or CMD (Window):
+- Open terminal (MacOS/Linx) or CMD (Window):
 ```
     cd path/to/install
     git clone https://github.com/Valuery/ExoPlayer-r2.7.3
 ```
-Open in Android Studio and run demo
+- Open in Android Studio and run demo
 
 ###3.Modificaition
-All refer to the document attach [here]
+- All refer to the document attach [here]
+
+
+
+
 ####4. Result
 
 
