@@ -1,5 +1,34 @@
 This is the alternative of ExoPlayer-r2.7.3, including statistic of video streaming and the improvement of CustomLoadControl, specify in demo.
 
+#1. Test Configuration
+Software:
+```
+    Android Studio 2020.3.1
+    Exoplayer r2.7.3 (with modification in CustomLoadControl)
+    Nexus 5X API 26
+    MPAndroidChart v3.0.2
+```
+Hardware:
+```
+    Chipset: i5-9400f
+    Ram: 16GB
+    Card: GTX 1660S
+```
+
+##2. Installation
+Open terminal (MacOS/Linx) or CMD (Window):
+```
+    cd path/to/install
+    git clone https://github.com/Valuery/ExoPlayer-r2.7.3
+```
+Open in Android Studio and run demo
+
+###3.Modificaition
+All refer to the document attach [here]
+####4. Result
+
+
+
 # ExoPlayer #
 
 ExoPlayer is an application level media player for Android. It provides an
